@@ -1,7 +1,7 @@
 import pandas as pd
 from paciente import Paciente
 from estudio import Estudios
-
+hOLA
 class PersonalMedico:
     def __init__(self, id_personal, nombre, especialidad):
         self.id_personal = id_personal
